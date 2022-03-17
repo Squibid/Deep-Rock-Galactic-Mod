@@ -3,14 +3,15 @@
   "id": "modid",
   "version": "${version}",
 
-  "name": "Example Mod",
-  "description": "This is an example description! Tell everyone what your mod is about!",
+  "name": "Deep Rock Galactic Mod",
+  "description": "A fabric mod to add stuff from the indie game 'Deep Rock Galactic' on Steam",
   "authors": [
-    "Me!"
+    "Squibid"
+    "Coder-Man"
   ],
   "contact": {
-    "homepage": "https://fabricmc.net/",
-    "sources": "https://github.com/FabricMC/fabric-example-mod"
+    "homepage": "https://github.com/Squibid/Deep-Rock-Galactic-Mod/",
+    "sources": "https://github.com/Squibid/Deep-Rock-Galactic-Mod/"
   },
 
   "license": "CC0-1.0",
